@@ -11,7 +11,7 @@ The goal of `chevron` is to allow anyone to easily access Rugby League data.
 You can install the development version of chevron like so:
 
 ``` r
-devtools::install_github("thecrucherau/chevron")
+devtools::install_github("thecruncherau/chevron")
 ```
 This requires the `devtools` package to be installed.
 
